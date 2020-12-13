@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="831.0" y="0.0">os.node</node>
+    <node x="618.0" y="0.0">os.PCB</node>
+    <node x="1125.0" y="0.0">os.Memory</node>
+    <node x="294.0" y="0.0">os.dispatch</node>
+    <node x="0.0" y="0.0">os.OS</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="1.1" x="753.9292929292931" y="291.5454545454545" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
